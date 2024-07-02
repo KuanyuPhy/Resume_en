@@ -6,7 +6,7 @@ The purpose of this project is to maintain an up-to-date and well-structured Eng
 
 ## Contents
 The repository includes the following files:
-- `resume.pdf`: A formatted PDF version of my resume for professional presentation
+- `Kuan_Yu_CV_en.pdf`: A formatted PDF version of my resume for professional presentation
 
 ## Contact
 For any inquiries or further information, you can reach me at [spaul6627@gmail.com].
