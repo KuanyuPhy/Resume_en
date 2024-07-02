@@ -1,3 +1,4 @@
+A repository to store and showcase my English resume.
 ## Introduction
 This project aims to preserve and showcase my English resume, with the goal of providing information about my educational background, work experience, and professional skills.
 
